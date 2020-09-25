@@ -1,4 +1,4 @@
-# frogger-game-in-c
+# Frogger Game in C
 
 This repository contians all the code I used to implmenet the classic arcade game: Frogger. Last tested on a LandTiger LPC1768 board but you can try it on just about board!
 
